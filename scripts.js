@@ -67,7 +67,7 @@ document.addEventListener("DOMContentLoaded",()=>{
         }
         if(noCount==19)
         {
-            document.querySelector(".page-image").src = "/angry.gif"
+            document.querySelector(".page-image").src = "/assets/angry.gif"
         }
         if(noCount> phrases.length-1)
         {
