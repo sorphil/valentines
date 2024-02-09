@@ -84,7 +84,7 @@ document.addEventListener("DOMContentLoaded",()=>{
 
             document.querySelector(".page-image").src = "https://media1.tenor.com/m/Ye7jK4dV19wAAAAC/goma-happy.gif"
             document.querySelector(".page-inputs").style.display = "none"
-            document.querySelector(".page-text").innerHTML = "YOU MAKE ME THE HAPPIEST PERSON IN THE WORLDDDD. <br> <br> I LOVE YOU TAYLOR"
+            document.querySelector(".page-text").innerHTML = "YOU MAKE ME THE HAPPIEST PERSON IN THE WORLDDDD. <br> <br> I LOVE YOU TAYLOR!!"
       })
 
 })
