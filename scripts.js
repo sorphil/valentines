@@ -67,7 +67,7 @@ document.addEventListener("DOMContentLoaded",()=>{
         }
         if(noCount==19)
         {
-            document.querySelector(".page-image").src = "https://media1.tenor.com/m/kM5gyjwUqOgAAAAC/mochi-cat-mochi.gif"
+            document.querySelector(".page-image").src = "/angry.gif"
         }
         if(noCount> phrases.length-1)
         {
