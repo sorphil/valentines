@@ -65,9 +65,9 @@ document.addEventListener("DOMContentLoaded",()=>{
         {
             document.querySelector(".page-image").src = "https://media1.tenor.com/m/BSXfPQkuF2cAAAAC/goma-mad-mad.gif"
         }
-        if(noCount==19)
+        if(noCount==18)
         {
-            document.querySelector(".page-image").src = "/assets/angry.gif"
+            document.querySelector(".page-image").src = "https://media1.tenor.com/m/mhDg9cGyT_4AAAAC/cat.gif"
         }
         if(noCount> phrases.length-1)
         {
